@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Demo_RTC")(type "KiCad")(uri "D:/Libraries/KiCad/Demo_RTC.kicad_sym")(options "")(descr ""))
+  (lib (name "demo_rtc")(type "KiCad")(uri "D:/Libraries/KiCad/Demo rtc/demo_rtc.kicad_sym")(options "")(descr ""))
+)
