@@ -24,14 +24,8 @@ Use code with caution.
 Navigate to your project folder and run:
 ```bash
 git init
-```
-```bash
 git add .
-```
-```bash
 git commit -m "Initial commit"
-```
-```bash
 git branch -M main
 ```
 Use code with caution.
