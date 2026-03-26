@@ -17,31 +17,32 @@ Set your identity on this machine (only needs to be done once):
 git config --global user.name "Your Name"
 git config --global user.email "your_email@example.com"
 Use code with caution.
-```
+```bash
 2. Initialize Local Repo
 Navigate to your project folder and run:
-bash
+```bash
 git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-Use code with caution.
 
+Use code with caution.
+```bash
 3. Connect to GitHub
 Link the local folder to your remote GitHub repository:
-bash
+```bash
 git remote add origin https://github.com
 Use code with caution.
 
 4. Push Changes
 To upload your files to GitHub:
-bash
+```bash
 git push -u origin main
 Use code with caution.
 
 5. Daily Workflow (Update Files)
 Whenever you make changes to your design:
-bash
+```bash
 git add .
 git commit -m "Describe your changes here"
 git push
