@@ -20,9 +20,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your_email@example.com"
 ```
 Use code with caution.
-```bash
 2. Initialize Local Repo
-```
 Navigate to your project folder and run:
 ```bash
 git init
